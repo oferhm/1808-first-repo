@@ -1,1 +1,1 @@
-new text file 2
+new text file 2 this is the remote commit
