@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.13 (devops1808)" />
+  </component>
+  <component name="ProjectResources">
+    <resource url="https://kubernetesjsonschema.dev/v1.14.0/deployment-apps-v1.json" location="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (devops1808)" project-jdk-type="Python SDK" />
+</project>
